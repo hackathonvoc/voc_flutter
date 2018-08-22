@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - speech_recognition (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/edjon/workSpace/codeSpace/hackathon/flutter/bin/cache/artifacts/engine/ios`)
+  - "speech_recognition (from `/Users/edjon/.pub-cache/hosted/pub.flutter-io.cn/speech_recognition-0.2.0+1/ios`)"
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/edjon/workSpace/codeSpace/hackathon/flutter/bin/cache/artifacts/engine/ios"
+  speech_recognition:
+    :path: "/Users/edjon/.pub-cache/hosted/pub.flutter-io.cn/speech_recognition-0.2.0+1/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  speech_recognition: 647da2fb33d7e6968bbdbd85240b5ee420d651f8
+
+PODFILE CHECKSUM: cc70c01bca487bebd110b87397f017f3b76a89f1
+
+COCOAPODS: 1.5.3
